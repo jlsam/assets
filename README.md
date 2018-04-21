@@ -7,7 +7,10 @@ This repository have a bunch of Polis files for creating a nice branding for Pol
 ### Coin Logos
 
 ![Polis New Coin](/img/poliscore/new-polis-coin-logo.png?raw=true "Title")
+*Polis New Coin*
 
 ![Polis Old Coin](/img/poliscore/old-polis-coin-logo.png?raw=true "Title")
+*Polis Old Coin*
 
 ![Polis New Logo](/img/poliscore/new-polis-logo.png?raw=true "Title")
+*Polis New Logo*
