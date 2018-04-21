@@ -2,6 +2,12 @@
 
 This repository have a bunch of Polis files for creating a nice branding for Polis.
 
+## For translations
+
+For translation bounty you can submit a Pull Request with the new images on img/banners/bitcointalk changin the language (img/banners/bitcointalk-eng) for example.
+The file to translate is on: img/banners/bitcointalk/banners.sketch
+The font used is "Augustus"
+
 ## Polis Core Logos
 
 ### Coin Logos
