@@ -30,7 +30,7 @@ This repository have a bunch of Polis files for creating a nice branding for Pol
 
 ![Main banner d4](/img/banners/main-banner-design4.jpg?raw=true)
 
-![Profile Banner](/img/banners/profile-banner.jpg?raw=true)
+![Profile Banner](/img/banners/profile-banner.png?raw=true)
 
 ![Profile Banner v1](/img/banners/profile-banner-variation1.jpg?raw=true)
 
